@@ -1,4 +1,4 @@
-import content from '/content.json' with { type: 'json' };
+import content from './content.json' with { type: 'json' };
 
 
 // Adds in content from json file
@@ -123,7 +123,7 @@ function openLinks() {
             </div>
             <h2>${links['contact-title']}</h2>${contact}
             <h2>designed with &lt;3</h2>
-            <a href='https://mn1ca.fish' target='_blank'><img src='/img/sitely/mn1ca.gif' style='image-rendering: pixelated'></a>`;
+            <a href='https://mn1ca.fish' target='_blank'><img src='./img/sitely/mn1ca.gif' style='image-rendering: pixelated'></a>`;
 }
 
 

@@ -514,7 +514,7 @@ ul li::marker {
 }
 
 /* Widescreens */
-@media screen and (min-aspect-ratio: 16/9), (max-height: 500px) {
+@media screen and (min-aspect-ratio: 18/9), (max-height: 500px) {
 
     body, html {
         margin: 0px;

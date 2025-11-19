@@ -530,8 +530,8 @@ ul li::marker {
     }
 
     #scene img {
-        width: 500px;
-        height: 400px;
+        width: auto;
+        height: 90vh;
     }
 
     #header {

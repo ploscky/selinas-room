@@ -3,28 +3,34 @@
 
     "about": {
         "title": "Hi, I’m Selina!",
-        "img": "/img/uploads/about.jpg",
-        "desc": "Useful markdown includes: line breaks\n<b>bolding</b>, <i>italicizing</i>, <s>strikethrough</s>, <a href='https://google.com' target='_blank'>linking</a>, <h2>subheadings</h2>\n(remember to newline after subheadings so text returns to normal format), and <ul><li>lists</li><li>more lists</li></ul>",
+        "img": "./img/uploads/about.jpg",
+        "desc": "hi!! i'm selina, currently a student studying cs in the hopes the job market miraculously improves. i love books (check my goodreads), online shopping, and movie trivia",
         "message": "Fun fact",
-        "message-variants": ["fun fact 1", "fun fact 2"]
+        "message-variants": ["my favorite pokemon is chikorita!", "i'm a virgo", "i'm a #eczemawarrior", "i can whistle!", "i played the clarinet in my high school marching band but i was really terrible at it"]
     },
 
     "projects": [
       {
-          "title": "Project 1",
-          "img": "/img/uploads/projects/proj1.jpg",
-          "links": ["link1", "/", "link2", "/", "link3", "/"],
-          "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+          "title": "Reddit Search Engine",
+          "img": "./img/uploads/projects/proj1.jpg",
+          "links": ["github and report", "https://github.com/ploscky/Reddit-Search-Engine"],
+          "desc": "With a group of 5, developed an information retrieval pipeline by crawling ~500MB of Reddit data, indexing with PyLucene (BM25 ranking plus recency and upvotes). Includes a Flask web interface for user queries across pop culture subreddits. If you want to know what the Reddit discourse was on your favorite reality show, this search engine will display the top posts!"
       },
         {
-          "title": "Project 2",
-          "img": "/img/uploads/projects/proj2.jpg",
-          "links": ["github", "https://github.com", "demo", "https://google.com"],
-          "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+          "title": "Terminal Chess",
+          "img": "./img/uploads/projects/proj2.jpg",
+          "links": ["github and report", "https://github.com/ploscky/Terminal-Chess-Project"],
+          "desc": "A terminal-based chess game built in C++ with a group of 4. Includes full chess-rule support and game logic like piece movement, legal move validation, and check & checkmate detection. Play in 2-player mode in the command line!"
+      },
+        {
+          "title": "Movie Trivia Game",
+          "img": "./img/uploads/projects/proj2.jpg",
+          "links": ["github", "https://github.com/ploscky/Movie-Trivia-Project"],
+          "desc": "A command-line movie trivia quiz game built in C++. It quizzes users on matching film quotes to movies and vice versa. It keeps score and validates user input. The game ends when you get three wrong answers!"
       }
     ],
 
-    "resume": "https://google.com",
+    "resume": "https://drive.google.com/file/d/19gBHk20RKzfUCTvMFUjSRAZ069VDyZCG/view?usp=sharing",
 
     "links": {
         "github": "https://github.com/ploscky",

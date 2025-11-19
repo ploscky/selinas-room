@@ -1,0 +1,39 @@
+{
+    "title": "Selina’s Room",
+
+    "about": {
+        "title": "Hi, I’m Selina!",
+        "img": "/img/uploads/about.jpg",
+        "desc": "Useful markdown includes: line breaks\n<b>bolding</b>, <i>italicizing</i>, <s>strikethrough</s>, <a href='https://google.com' target='_blank'>linking</a>, <h2>subheadings</h2>\n(remember to newline after subheadings so text returns to normal format), and <ul><li>lists</li><li>more lists</li></ul>",
+        "message": "Fun fact",
+        "message-variants": ["fun fact 1", "fun fact 2"]
+    },
+
+    "projects": [
+      {
+          "title": "Project 1",
+          "img": "/img/uploads/projects/proj1.jpg",
+          "links": ["link1", "/", "link2", "/", "link3", "/"],
+          "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      },
+        {
+          "title": "Project 2",
+          "img": "/img/uploads/projects/proj2.jpg",
+          "links": ["github", "https://github.com", "demo", "https://google.com"],
+          "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      }
+    ],
+
+    "resume": "https://google.com",
+
+    "links": {
+        "github": "https://github.com/ploscky",
+        "linkedin": "https://www.linkedin.com/in/selina-wu-a76202206",
+        "spotify": "https://open.spotify.com/user/6ws9hjmacwwd8xcdg5lgjagbu",
+        "goodreads": "https://www.goodreads.com/user/show/79950730-ploscky",
+
+        "contact-title": "Get in touch!",
+        "contact": ["mail", "selinawu001@gmail.com", "phone", "(510) 676-0980"]
+    }
+
+}

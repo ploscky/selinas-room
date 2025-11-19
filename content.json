@@ -24,7 +24,7 @@
       },
         {
           "title": "Movie Trivia Game",
-          "img": "./img/uploads/projects/proj2.jpg",
+          "img": "./img/uploads/projects/proj3.jpg",
           "links": ["github", "https://github.com/ploscky/Movie-Trivia-Project"],
           "desc": "A command-line movie trivia quiz game built in C++. It quizzes users on matching film quotes to movies and vice versa. It keeps score and validates user input. The game ends when you get three wrong answers!"
       }

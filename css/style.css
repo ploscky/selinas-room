@@ -350,8 +350,8 @@ ul li::marker {
 }
 
 .inline::before {
-    width: 12%;
-    height: 5%;
+    width: 65px;
+    height: 20px;
     background-color: white;
     opacity: .75;
 

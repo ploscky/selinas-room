@@ -307,15 +307,18 @@ ul li::marker {
 }
 
 #content-box {
-    width: 80%;
+    width: 90vw;
     max-width: 900px;
     height: calc-size(auto, size + 1em);
+    max-height: 90vh;
 
     position: fixed;
     left: 0;
-    top: 10%;
     right: 0;
     margin: auto;
+    
+    top: 50%;
+    transform: translateY(-50%);
 
     outline-offset: -1em;
     background-color: var(--color1);

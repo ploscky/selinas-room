@@ -17,20 +17,20 @@
           "desc": "With a group of 5, developed an information retrieval pipeline by crawling ~500MB of Reddit data, indexing with PyLucene (BM25 ranking plus recency and upvotes). Includes a Flask web interface for user queries across pop culture subreddits. If you want to know what the Reddit discourse was on your favorite reality show, this search engine will display the top posts!"
       },
         {
-          "title": "Terminal Chess",
+          "title": "Drowsiness Detection Device",
           "img": "./img/uploads/projects/proj2.jpg",
-          "links": ["github and report", "https://github.com/ploscky/Terminal-Chess-Project"],
-          "desc": "A terminal-based chess game built in C++ with a group of 4. Includes full chess-rule support and game logic like piece movement, legal move validation, and check & checkmate detection. Play in 2-player mode in the command line!"
+          "links": ["github and report", "https://github.com/UserIsBlank/sentinel-drive-assist"],
+          "desc": "A real-time driver drowsiness detection system using MediaPipe face landmarking and a logistic regression model. As a group of 4, we deployed this on a Raspberry Pi 5 with a touchscreen interface, voice activation, and adjustable sensitivity/customization."
       },
         {
-          "title": "Movie Trivia Game",
+          "title": "Campus Dining Capacity Tracker",
           "img": "./img/uploads/projects/proj3.jpg",
-          "links": ["github", "https://github.com/ploscky/Movie-Trivia-Project"],
-          "desc": "A command-line movie trivia quiz game built in C++. It quizzes users on matching film quotes to movies and vice versa. It keeps score and validates user input. The game ends when you get three wrong answers!"
+          "links": ["github and report", "https://github.com/ploscky/CS131-Edge-Computing-Project"],
+          "desc": "Collaborated with a group of 6 to develop an edge computing system that monitors real-time occupancy and seating availability using overhead cameras and Jetson Nano devices. It includes occupancy and wait-time estimation logic, a live dashboard, seating information and historical traffic analysis."
       }
     ],
 
-    "resume": "https://drive.google.com/file/d/1snvu6MmYBUSwE6sYx9v780HOllcItsJ7/view?usp=sharing",
+    "resume": "https://drive.google.com/file/d/1KekHQEmqV-NiALFTEeZUvlYqv1jCoDk6/view?usp=sharing",
 
     "links": {
         "github": "https://github.com/ploscky",
